@@ -25,7 +25,7 @@ https://www.coursera.org/course/getdata
 * RCurl
 * reshape2
 
-### set working dir
+### Set working directory
 * Script creates a relative `./data` dir in which it downloads the .zip, extracts it and writes the result file (`tidy_data.txt`)
 
 ### Run `run_analysis.R`
